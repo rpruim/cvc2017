@@ -1,0 +1,9 @@
+Package: cvc2017
+Type: Package
+Title: This is a Demo for CVC 2017
+Version: 0.1.0
+Author: Randall Pruim
+Maintainer: Randall Pruim <rpruim@gmail.com>
+Description: We don't really know yet.  But it will be good.
+Encoding: UTF-8
+LazyData: true
