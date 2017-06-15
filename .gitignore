@@ -24,3 +24,4 @@ vignettes/*.pdf
 *.knit.md
 .Rproj.user
 cvc2017.Rproj
+.Rbuildignore
